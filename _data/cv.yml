@@ -14,9 +14,9 @@
       year: 2020 - 2024
       description:
         - CW Chu College
-        - ELITE Stream 2020 - Present
-        - Dean's List 2020-21, 21-22
-        - title: ICPC Team Member 2020 - Present
+        - ELITE Stream (2020 - Present)
+        - Dean's List (2020-21, 21-22)
+        - title: ICPC Team Member (2020 - Present)
           contents:
             - 2022 Macau Regional (Bronze)
             - 2022 Kunming Regional (Bronze)
@@ -34,7 +34,7 @@
         - <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings" target="_blank">GitHub</a>, <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings/blob/master/Poster.pdf" target="_blank">Poster</a>
         
     - title: Tencent AI Arena Multi-Agent Competition
-      institution: CUHK, Tencent
+      institution: CUHK & Tencent
       year: 2022 Mar. - Jun.
       description:
         - Developed a multi-agent reinforcement learning model in "Honor of Kings".
