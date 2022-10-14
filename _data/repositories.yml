@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Yasgant
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Yasgant/Continual-Learning-Knowledge-Graph-Embeddings
+  - Yasgant/MARL_HOK
+  - Yasgant/project-nmnbns
+  - Yasgant/6.824
+  - Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System
