@@ -9,7 +9,8 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: <a href="mailto:yyiliu@link.cuhk.edu.hk" target="_blank">yyiliu@link.cuhk.edu.hk</a>
+  address: >
+           <font size="3.5">Email: <a href="mailto:yyiliu@link.cuhk.edu.hk" target="_blank">yyiliu@link.cuhk.edu.hk</a></font>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
