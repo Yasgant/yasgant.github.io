@@ -16,10 +16,7 @@
         - CW Chu College
         - ELITE Stream (2020 - Present)
         - Dean's List (2020-21, 21-22)
-        - title: ICPC Team Member (2020 - Present)
-          contents:
-            - 2022 Macau Regional (Bronze)
-            - 2022 Kunming Regional (Bronze)
+        - ICPC Team Member (2020 - Present)
 
 - title: Experience
   type: time_table
@@ -48,6 +45,25 @@
         - "Project Title: APM: Efficient Approximate Graph Pattern Matching System"
         - Developed an efficient graph pattern matching system.
         - <a href="https://github.com/Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System" target="_blank">GitHub</a>, <a href="https://github.com/Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System/blob/main/Poster.pdf" target="_blank">Poster</a>
+
+- title: ICPC & OI
+  type: time_table
+  contents:
+    - title: International Collegiate Programming Contest (ICPC)
+      institution: CUHK
+      year: 2020 Oct. - Present
+      description:
+        - <a href="https://icpc.global/ICPCID/G53VKXGUD9FQ" target="_blank">ICPCID</a>
+        - 2022 Macau Regional (Bronze)
+        - 2022 Kunming Regional (Bronze)
+    
+    - title: Olympiad in Informatics (OI)
+      year: 2017 Sep. - 2019 Nov.
+      description:
+        - First Prize in CCF CSP 2019
+        - Bronze Medal in IOI CTSC 2019
+        - Bronze Medal in CCF Winter Camp 2019
+        - First Prize in NOIP 2018
 
 - title: Academic Interests
   type: nested_list
