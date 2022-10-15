@@ -39,7 +39,7 @@
       description:
         - Developed a multi-agent reinforcement learning model in "Honor of Kings".
         - Ranked top among non-mainland universities.
-        - <a href="https://aiarena.tencent.com/aiarena/en/match/fisu" target="_blank">Competition Website</a>
+        - <a href="https://github.com/Yasgant/MARL_HOK" target="_blank">GitHub</a>, <a href="https://aiarena.tencent.com/aiarena/en/match/fisu" target="_blank">Competition Website</a>
 
     - title: Summer Research Internship
       institution: Department of Computer Science and Engineering, CUHK
@@ -100,6 +100,8 @@
 - title: Other Interests
   type: list
   contents:
-    - Lyrics Games
+    - Rhythm Games
     - Vocaloid
     - Music
+    - Anime & Manga
+    - Cycling
