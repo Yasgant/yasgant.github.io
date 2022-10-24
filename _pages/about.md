@@ -21,7 +21,7 @@ Urrr... I have many English nicknames (Perditio, Oliver, Yasgant, dqtr03, etc.).
 
 Anyway. I'm Yang Yiliu, a year 3 UG majoring in Artificial Intelligence from CUHK.
 
-My research interests are computational theory and system design. I won a lot of prizes during my senior high and UG. If you are interested in this, please refer to my [Linkedin Profile](https://www.linkedin.com/in/yyiliu).
+My research interests are AI theory and reinforcement learning. I won a lot of prizes during my senior high and UG. If you are interested in this, please refer to my [Linkedin Profile](https://www.linkedin.com/in/yyiliu).
 
 I have been a member of CUHK ICPC team since Sep 2020 and got bronze awards in the 2022 Macau and Kunming Regionals. I joined Tencent's [AI Arena Multi-Agent Competition](https://aiarena.tencent.com/aiarena/en/match/fisu) this spring and got a high rank.
 
