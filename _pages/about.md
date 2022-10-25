@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-         <i>"在霓虹光点间流连的愚昧"</i>
+         <i>"Then I realized someone's heaven could be the source of my torment."</i>
 
 profile:
   align: right
