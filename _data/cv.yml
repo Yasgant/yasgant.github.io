@@ -49,11 +49,13 @@
 - title: ICPC & OI
   type: time_table
   contents:
+    - description: Don't know why I have so many bronze medals.
     - title: International Collegiate Programming Contest (ICPC)
       institution: CUHK
       year: 2020 - Present
       description:
         - <a href="https://icpc.global/ICPCID/G53VKXGUD9FQ" target="_blank">ICPCID</a>
+        - 2022 Shenyang Regional (Bronze)
         - 2022 Macau Regional (Bronze)
         - 2022 Kunming Regional (Bronze)
     
@@ -82,6 +84,7 @@
   contents:
     - year: 2022
       description: 
+        - Bronze Award in ICPC Regional Shenyang Site
         - ELITE Stream Scholarship
         - Dean's List 2021-22
         - Samson Leung Scholarship
