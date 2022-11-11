@@ -28,7 +28,7 @@
       description:
         - Focus on Continual Learning on Knowledge Graph Embeddings.
         - The Best Project Award
-        - <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings" target="_blank">GitHub</a>, <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings/blob/master/Poster.pdf" target="_blank">Poster</a>
+        - <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings" target="_blank">GitHub</a>, <a href="../files/2022Poster.pdf" target="_blank">Poster</a>
         
     - title: Tencent AI Arena Multi-Agent Competition
       institution: CUHK & Tencent
@@ -44,7 +44,7 @@
       description:
         - "Project Title: APM: Efficient Approximate Graph Pattern Matching System"
         - Developed an efficient graph pattern matching system.
-        - <a href="https://github.com/Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System" target="_blank">GitHub</a>, <a href="https://github.com/Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System/blob/main/Poster.pdf" target="_blank">Poster</a>
+        - <a href="https://github.com/Yasgant/APM-Efficient-Approximate-Graph-Pattern-Matching-System" target="_blank">GitHub</a>, <a href="../files/2021Poster.pdf" target="_blank">Poster</a>
 
 - title: ICPC & OI
   type: time_table
@@ -62,6 +62,7 @@
     - title: Olympiad in Informatics (OI)
       year: 2017 - 2019
       description:
+        - <a href="https://bytew.net/OIer/?query=UID57251" target="_blank">OIerDb</a>
         - 2019 CCF CSP-S (First Prize)
         - 2019 IOI CTSC (Bronze)
         - 2019 CCF Winter Camp (Bronze)
@@ -70,10 +71,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Currently finding my interest.
-    - title: AI Theory
-      items: 
-        - Especially in mathematics
+    - title: Theoretical Computer Science
         
     - title: Reinforcement Learning
       items:

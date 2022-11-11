@@ -17,16 +17,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Urrr... I have many English nicknames (Perditio, Oliver, Yasgant, dqtr03, etc.). Perditio is the one if I want to be somehow unique.
+I'm Yang Yiliu (Oliver), a third-year undergraduate majoring in Artificial Intelligence from The Chinese University of Hong Kong.
 
-Anyway. I'm Yang Yiliu, a year 3 UG majoring in Artificial Intelligence from CUHK.
+I am interested in theoretical computer science (influenced by my previous experience in OI) and reinforcement learning.
 
-My research interests are AI theory and reinforcement learning. I won a lot of prizes during my senior high and UG. If you are interested in this, please refer to my [Linkedin Profile](https://www.linkedin.com/in/yyiliu).
+My research experiences were mainly in 2 summer research internships. I won the best project award because of the 2022 one titled "Continual Learning Knowledge Graph Embeddings".
 
-I have been a member of CUHK ICPC team since Sep 2020 and got bronze awards in the 2022 Macau and Kunming Regionals. I joined Tencent's [AI Arena Multi-Agent Competition](https://aiarena.tencent.com/aiarena/en/match/fisu) this spring and got a high rank.
+I have been a member of CUHK ICPC team since 2020 and got 3 bronze medals in multiple regionals.
 
-I also participated in the Summer Research Internship in 2021 and 2022 summer. The project topics are "Efficient Graph Pattern Matching System" and "Continual Learning Knowledge Graph Embeddings" correspondingly. I won the Best Project Award for the latter project.
+Beyond the class, I also studied some courses on the Internet. You can see [here](table) to take a look at my study table.
 
-Beyond the class, I have studied many courses on the Internet. You can see [here]({% link progress.md %}) to take a look at my study progress. If you are interested in these things, feel free to email me or send me messages via wechat so that we can discuss our ideas.
+I love collecting small awards/prizes. If you are interested in this, please refer to my [Info](info) page.
 
-I was developing an AI to play an STG video game ([GitHub](https://github.com/Yasgant/project-nmnbns)). However, the project is paused due to my knowledge and time limitations. If anyone has an interest in it, please let me know.
+I was doing a reinforcement learning model to play an STG game ([GitHub](https://github.com/Yasgant/project-nmnbns)). However, this project was paused due to my lack of time. If anyone has an interest in it, please let me know.
