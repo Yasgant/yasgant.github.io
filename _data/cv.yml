@@ -72,10 +72,14 @@
   type: nested_list
   contents:
     - title: Theoretical Computer Science
-        
-    - title: Reinforcement Learning
       items:
-
+         - Algorithms
+         - Computability Theory
+         - Number Theory
+    - title: Machine Learning
+      items:
+         - Learning and Optimization Theory
+         - Reinforcement Learning
 
 - title: Honors and Awards
   type: time_table
