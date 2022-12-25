@@ -8,7 +8,21 @@ layout: default
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.above_title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc" id="randomtext"></p>
+          <script type="text/javascript">
+    function randomtext() {
+        var randomtxt=[
+            '<i>"Then I realized someone\'s heaven could be the source of my torment."</i>',
+            '<i>"Maybe we are all cold machines, stuffed in the human skin, with human sins"</i>',
+            '<i>"Challenging your god you have made some illegal arguments"</i>',
+            '<i>"在霓虹光点间流连的愚昧"</i>',
+            '<i>"I wish your choices lead to happiness"</i>'
+        ];
+        return randomtxt[Math.floor((Math.random() * randomtxt.length))];
+    }
+    document.getElementById("randomtext").innerHTML = randomtext();
+</script>
+          
         </header>
 
         <article>
