@@ -25,7 +25,7 @@ My research experiences were mainly in 2 summer research internships. I won the 
 
 I have been a member of CUHK ICPC team since 2020 and got 3 bronze medals in multiple regionals.
 
-Beyond the class, I also studied some courses on the Internet. You can see [here](table) to take a look at my study table.
+Beyond the class, I also studied some online and graduate-level courses. You can see [here](table) to take a look at my study table.
 
 I love collecting small awards/prizes. If you are interested in this, please refer to my [Info](info) page.
 

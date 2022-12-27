@@ -4,17 +4,11 @@ layout: default
 
 # Study Table
 
-Update Time: 25 Dec 2022
-
-## Planning:
-
-* MIT 6.042 or other advanced mathematic course (still considering)
-
-* Some courses related to statistics (still considering)
-
-* CUHK ENGG 5501 Foundations of Optimization (2023 Fall)
+Update Time: 27 Dec 2022
 
 ## In Progress:
+
+* [CMU 15-855](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) Graduate Computational Complexity Theory (Current progress 2/29)
 
 * CUHK CSCI 5030 Machine Learning Theory (2023 Spring)
 
@@ -27,6 +21,14 @@ Update Time: 25 Dec 2022
 * Reinforcement Learning ([YouTube](https://github.com/zhoubolei/introRL)) : Mar 2022 - Mar 2022 (quick finished)
 
 * Dive into Deep Learning ([d2l.ai](http://d2l.ai)) : Jun 2022 - Jul 2022
+
+## Planning:
+
+* MIT 6.042 or other advanced mathematic course (still considering)
+
+* CMU 10-702 or other statistics course
+
+* CUHK ENGG 5501 Foundations of Optimization (2023 Fall)
 
 ## Dropped:
 * ~~Deep Learning ([DeepLearning.Ai](https://www.coursera.org/specializations/deep-learning)) : Feb 2022 -~~ (replaced by the alternative **d2l**)
