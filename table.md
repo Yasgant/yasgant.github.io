@@ -4,17 +4,19 @@ layout: default
 
 # Study Table
 
-Update Time: 28 Dec 2022
+Update Time: 31 Dec 2022
 
 ## In Progress:
 
-* [CMU 15-455](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) Undergraduate Complexity Theory (Current progress 15/28)
+* [CMU 36-705](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF) Intermediate Statistics (about to start)
 
 * CUHK CSCI 5030 Machine Learning Theory (2023 Spring)
 
 * CUHK Courses 
 
 ## Completed:
+
+* [CMU 15-455](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) Undergraduate Complexity Theory : Dec 2022
 
 * Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning)) : May 2021 - Feb 2022
 
@@ -23,9 +25,6 @@ Update Time: 28 Dec 2022
 * Dive into Deep Learning ([d2l.ai](http://d2l.ai)) : Jun 2022 - Jul 2022
 
 ## Planning:
-
-
-* CMU 36-705 or other statistics course
 
 * CMU 10-702 or CMU 10-715 or CMU 10-701 and/or CMU 18-409 or other machine learning course
 

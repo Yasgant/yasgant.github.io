@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Yang Yiliu (Oliver), a third-year undergraduate majoring in Artificial Intelligence from The Chinese University of Hong Kong.
 
-I am interested in theoretical computer science (influenced by my previous experience in OI) and reinforcement learning.
+I am interested in theoretical computer science (influenced by my previous experience in OI) and machine learning.
 
 My research experiences were mainly in 2 summer research internships. I won the best project award because of the 2022 one titled "Continual Learning Knowledge Graph Embeddings".
 
