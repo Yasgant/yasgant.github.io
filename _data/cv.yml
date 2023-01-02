@@ -27,7 +27,7 @@
       year: 2022 Jun - Aug
       description:
         - Focus on Continual Learning on Knowledge Graph Embeddings.
-        - The Best Project Award
+        - <b> Best Project Award </b>
         - <a href="https://github.com/Yasgant/Continual-Learning-Knowledge-Graph-Embeddings" target="_blank">GitHub</a>, <a href="../files/2022Poster.pdf" target="_blank">Poster</a>
         
     - title: Tencent AI Arena Multi-Agent Competition
@@ -74,8 +74,6 @@
     - title: Theoretical Computer Science
       items:
          - Algorithms
-         - Computability Theory
-         - Number Theory
     - title: Machine Learning
       items:
          - Learning and Optimization Theory

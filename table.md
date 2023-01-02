@@ -4,11 +4,11 @@ layout: default
 
 # Study Table
 
-Update Time: 31 Dec 2022
+Update Time: 2 Jan 2023
 
 ## In Progress:
 
-* [CMU 36-705](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF) Intermediate Statistics (about to start)
+* [CMU 36-705](https://www.youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) Intermediate Statistics : Jan 2023
 
 * CUHK CSCI 5030 Machine Learning Theory (2023 Spring)
 
@@ -29,6 +29,8 @@ Update Time: 31 Dec 2022
 * CMU 10-702 or CMU 10-715 or CMU 10-701 and/or CMU 18-409 or other machine learning course
 
 * [CMU 15-855](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) Graduate Complexity Theory (if I have enough time)
+
+* [Berkeley Math 115](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8) Introduction to number theory
 
 * CUHK ENGG 5501 Foundations of Optimization (2023 Fall)
 
